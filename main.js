@@ -14,7 +14,9 @@
 // let firstName = 'Marushka'
 // let age = 20;
 // console.log(name + ' ' +  firstName + ' ' + age)  2
+for (let colirElement of colir) {
 
+}
 
 //  let name = prompt('Ruslan')
 //  let firstName = prompt('Marushka')
